@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm João Victor Ipirajá!🇧🇷</h1>
-### About me 👨🏽‍💻
-  As autistic, having a more dominant left side of my brain, i've been naturally attracted to Computer Engineering because it is an area focused on problem-solving skills and logical thinking. And, above all, aimed at creating new things. 
-  Besides ,since high school at 2015, this is my hyper focus: research and learn, mainly, about microcontrollers and IOT, Deep Learning and IOS Mobile Development. 
-  In my free time, 🎤 i am a speaker and activist on the cause of neurodiversity and the autism spectrum, furthermore, my favorite hobby is 🎨 drawing surrealistic illustrations and studying singing!
+<h3> About me 👨🏽‍💻 </h3>
+<p> As autistic, having a more dominant left side of my brain, i've been naturally attracted to Computer Engineering because it is an area focused on problem-solving skills and logical thinking. And, above all, aimed at creating new things.</p> 
+<p>Besides ,since high school at 2015, this is my hyper focus: research and learn, mainly, about microcontrollers and IOT, Deep Learning and IOS Mobile Development.</p>  
+<p>In my free time, 🎤 i am a speaker and activist on the cause of neurodiversity and the autism spectrum, furthermore, my favorite hobby is 🎨 drawing surrealistic illustrations and studying singing!</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoipiraja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
