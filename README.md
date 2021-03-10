@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:joaovictorpiraja@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF8C1A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anajuliabit/)](https://www.instagram.com/joaoipiraja/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC91ApSF7BGsnC2aGT5UfwoA)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/joaoipiraja)](https://joaoipiraja.github.io)
+
 
 <h3> About me 👨🏽‍💻 </h3>
 <p> As autistic, having a more dominant left side of my brain, i've been naturally attracted to Computer Engineering because it is an area focused on problem-solving skills and logical thinking. And, above all, aimed at creating new things.</p> 
