@@ -1,6 +1,6 @@
+<img align="right" height="390px" src="https://github.com/joaoipiraja/joaoipiraja/blob/main/sticker.png?raw=true" />
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm João Victor Ipirajá!🇧🇷</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, I'm João Victor Ipirajá!🇧🇷</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/jo%C3%A3o-victor-ipiraj%C3%A1-4450091bb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:joaovictorpiraja@gmail.com)
