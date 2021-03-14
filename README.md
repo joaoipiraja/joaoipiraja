@@ -1,4 +1,3 @@
-<img align="right" height="390px" src="https://github.com/joaoipiraja/joaoipiraja/blob/main/sticker.png?raw=true" />
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px"> Visitor!</h1>
 
