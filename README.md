@@ -20,11 +20,6 @@
   </tr>
 </table>
 
-
-
-
-![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=joaoipiraja&show_icons=true&hide_border=true&title_color=456EBF&text_color=4D71C1&icon_color=ED7945)
-
 <details>
   <summary> More </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoipiraja&layout=compact&bg_color=ffffff&text_color=4D71C1&title_color=456EBF">
